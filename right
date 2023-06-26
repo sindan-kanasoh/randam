@@ -32,7 +32,7 @@
   </script>
 </head>
 <body>
-  <h1>ランダムな単語の組み合わせ</h1>
+  <h1>泣ける邦画っぽいタイトル生成ジェネレータ</h1>
   
   <button onclick="generateRandomCombination()">邦題生成</button>
   <p id="result"></p>
